@@ -1,0 +1,145 @@
+*{
+background-color: #F0F2F5;
+}
+.box{
+    position: absolute;
+    align-items: center;
+    right:18%;
+    top:20%;
+height : 320px;
+width: 360px;
+background-color: #ffffff;
+margin-bottom: 1rem;
+ border: blur;
+
+ border-radius: 10px;
+ display: flex;
+
+}
+#mail{
+    text-size-adjust: 10px;
+    height : 40px;
+width: 310px;
+border-spacing: 10px;
+margin-top: 1rem;
+  margin-bottom: 1rem;
+  position: absolute;
+  right: 5%;
+  background-color: #ffffff;
+  top:5%;
+  border-radius: 5px;
+  border: 3px solid  #F0F2F5;
+  display: flex;
+
+}
+#pass{
+    text-size-adjust: 10px;
+    height : 40px;
+width: 310px;
+position: absolute;
+  right: 5%;
+top :30%;
+  margin-bottom: 1rem;
+  background-color: #ffffff;
+  border-radius: 5px;
+  border: 3px solid  #F0F2F5;
+  display: flex;
+}
+#sign{
+    height : 45px;
+    width: 320px;
+    border-radius: 5px;
+    color: #ffffff;
+    font-weight: bolder;
+    background-color: #0866FF;
+    position: absolute;
+    right: 5%;
+    top :30%;
+    font-size: 20px;
+  margin-bottom: 1rem;
+  top:50%;
+ 
+}
+#aone {
+    margin-bottom: 1rem;
+   text-decoration: none;
+    position: absolute;
+  right: 28%;
+  top:67%;
+  background-color: #ffffff;
+  color: #0866FF;
+  display: flex;
+ 
+}
+
+
+#create{
+    
+  margin-bottom: 1rem;
+    align-items: center;
+    height : 42px;
+    width: 160px;
+    background-color: #ffffff;
+    border-radius: 5px;
+    color: #ffffff;
+    font-weight: bolder;
+    background-color:#4EAA3E;
+    position: absolute;
+  right: 25%;
+  top:80%;
+  display: flex;
+}
+h1{
+    color: #0866FF;
+    font-size: 340%;
+    position: absolute;
+    top:25%;
+    left:20%;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+}
+#one{
+    font-size: 180%;
+    position: absolute;
+    top:37%;
+    left:20%; 
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+}
+#two{
+    font-size: 180%;
+    position: absolute;
+    top:42%;
+    left:20%; 
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+}
+#atwo{
+margin-bottom: 1rem;
+text-decoration: none;
+ position: absolute;
+right: 504px;
+top:490px;
+background-color: #F0F2F5;
+color: #000000;
+font-weight: bold;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 15px;
+display: flex;
+}
+#three{
+    font-size: 14px;
+    position: absolute;
+    right:306px;
+    top:476px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+}
+#line{
+align-items: center;
+    border-bottom: 1px solid #dadde1;
+    display: flex;
+    margin: 20px 16px;
+      text-align: center;
+      
+    }
